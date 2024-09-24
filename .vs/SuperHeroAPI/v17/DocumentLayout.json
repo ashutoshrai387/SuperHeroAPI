@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Ashutosh\\Asp Dotnet Core Web API\\SuperHeroAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97C20319-1B78-4688-B089-F0C25AD4E438}|SuperHeroAPI\\SuperHeroAPI.csproj|d:\\ashutosh\\asp dotnet core web api\\superheroapi\\superheroapi\\controllers\\superherocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97C20319-1B78-4688-B089-F0C25AD4E438}|SuperHeroAPI\\SuperHeroAPI.csproj|solutionrelative:superheroapi\\controllers\\superherocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C20319-1B78-4688-B089-F0C25AD4E438}|SuperHeroAPI\\SuperHeroAPI.csproj|d:\\ashutosh\\asp dotnet core web api\\superheroapi\\superheroapi\\superheroapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{97C20319-1B78-4688-B089-F0C25AD4E438}|SuperHeroAPI\\SuperHeroAPI.csproj|solutionrelative:superheroapi\\superheroapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C20319-1B78-4688-B089-F0C25AD4E438}|SuperHeroAPI\\SuperHeroAPI.csproj|d:\\ashutosh\\asp dotnet core web api\\superheroapi\\superheroapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97C20319-1B78-4688-B089-F0C25AD4E438}|SuperHeroAPI\\SuperHeroAPI.csproj|solutionrelative:superheroapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C20319-1B78-4688-B089-F0C25AD4E438}|SuperHeroAPI\\SuperHeroAPI.csproj|d:\\ashutosh\\asp dotnet core web api\\superheroapi\\superheroapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{97C20319-1B78-4688-B089-F0C25AD4E438}|SuperHeroAPI\\SuperHeroAPI.csproj|solutionrelative:superheroapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C20319-1B78-4688-B089-F0C25AD4E438}|SuperHeroAPI\\SuperHeroAPI.csproj|d:\\ashutosh\\asp dotnet core web api\\superheroapi\\superheroapi\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97C20319-1B78-4688-B089-F0C25AD4E438}|SuperHeroAPI\\SuperHeroAPI.csproj|solutionrelative:superheroapi\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C20319-1B78-4688-B089-F0C25AD4E438}|SuperHeroAPI\\SuperHeroAPI.csproj|d:\\ashutosh\\asp dotnet core web api\\superheroapi\\superheroapi\\entities\\superhero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97C20319-1B78-4688-B089-F0C25AD4E438}|SuperHeroAPI\\SuperHeroAPI.csproj|solutionrelative:superheroapi\\entities\\superhero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C20319-1B78-4688-B089-F0C25AD4E438}|SuperHeroAPI\\SuperHeroAPI.csproj|d:\\ashutosh\\asp dotnet core web api\\superheroapi\\superheroapi\\migrations\\20240923154525_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97C20319-1B78-4688-B089-F0C25AD4E438}|SuperHeroAPI\\SuperHeroAPI.csproj|solutionrelative:superheroapi\\migrations\\20240923154525_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SuperHeroAPI.csproj",
+              "DocumentMoniker": "D:\\Ashutosh\\Asp Dotnet Core Web API\\SuperHeroAPI\\SuperHeroAPI\\SuperHeroAPI.csproj",
+              "RelativeDocumentMoniker": "SuperHeroAPI\\SuperHeroAPI.csproj",
+              "ToolTip": "D:\\Ashutosh\\Asp Dotnet Core Web API\\SuperHeroAPI\\SuperHeroAPI\\SuperHeroAPI.csproj",
+              "RelativeToolTip": "SuperHeroAPI\\SuperHeroAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-23T15:50:39.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240923154525_Initial.cs",
+              "DocumentMoniker": "D:\\Ashutosh\\Asp Dotnet Core Web API\\SuperHeroAPI\\SuperHeroAPI\\Migrations\\20240923154525_Initial.cs",
+              "RelativeDocumentMoniker": "SuperHeroAPI\\Migrations\\20240923154525_Initial.cs",
+              "ToolTip": "D:\\Ashutosh\\Asp Dotnet Core Web API\\SuperHeroAPI\\SuperHeroAPI\\Migrations\\20240923154525_Initial.cs",
+              "RelativeToolTip": "SuperHeroAPI\\Migrations\\20240923154525_Initial.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T15:45:25.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Ashutosh\\Asp Dotnet Core Web API\\SuperHeroAPI\\SuperHeroAPI\\Program.cs",
+              "RelativeDocumentMoniker": "SuperHeroAPI\\Program.cs",
+              "ToolTip": "D:\\Ashutosh\\Asp Dotnet Core Web API\\SuperHeroAPI\\SuperHeroAPI\\Program.cs",
+              "RelativeToolTip": "SuperHeroAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T13:26:07.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Ashutosh\\Asp Dotnet Core Web API\\SuperHeroAPI\\SuperHeroAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "SuperHeroAPI\\appsettings.json",
+              "ToolTip": "D:\\Ashutosh\\Asp Dotnet Core Web API\\SuperHeroAPI\\SuperHeroAPI\\appsettings.json",
+              "RelativeToolTip": "SuperHeroAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-23T12:51:56.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "D:\\Ashutosh\\Asp Dotnet Core Web API\\SuperHeroAPI\\SuperHeroAPI\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "SuperHeroAPI\\Data\\DataContext.cs",
+              "ToolTip": "D:\\Ashutosh\\Asp Dotnet Core Web API\\SuperHeroAPI\\SuperHeroAPI\\Data\\DataContext.cs",
+              "RelativeToolTip": "SuperHeroAPI\\Data\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T12:41:13.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SuperHeroController.cs",
+              "DocumentMoniker": "D:\\Ashutosh\\Asp Dotnet Core Web API\\SuperHeroAPI\\SuperHeroAPI\\Controllers\\SuperHeroController.cs",
+              "RelativeDocumentMoniker": "SuperHeroAPI\\Controllers\\SuperHeroController.cs",
+              "ToolTip": "D:\\Ashutosh\\Asp Dotnet Core Web API\\SuperHeroAPI\\SuperHeroAPI\\Controllers\\SuperHeroController.cs",
+              "RelativeToolTip": "SuperHeroAPI\\Controllers\\SuperHeroController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T08:55:43.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SuperHero.cs",
+              "DocumentMoniker": "D:\\Ashutosh\\Asp Dotnet Core Web API\\SuperHeroAPI\\SuperHeroAPI\\Entities\\SuperHero.cs",
+              "RelativeDocumentMoniker": "SuperHeroAPI\\Entities\\SuperHero.cs",
+              "ToolTip": "D:\\Ashutosh\\Asp Dotnet Core Web API\\SuperHeroAPI\\SuperHeroAPI\\Entities\\SuperHero.cs",
+              "RelativeToolTip": "SuperHeroAPI\\Entities\\SuperHero.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T07:32:41.313Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
